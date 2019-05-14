@@ -1,4 +1,17 @@
 /* Empty. Add your own CSS if you like */
 .titulo{
-	color: yellow;
+	color: #b206b0;
+}
+.fondo{
+	background: #ffd3de;
+}
+.filamenu{
+	background: #000000;/*color fondo*/
+	color: #fff;/*color de letra*/
+	font-family: arial;/*tipo de letra*/
+	font-size: 30px;/*tamano de letra*/
+	text-align: center;/*posicion de letra*/
+}
+.OPCIONES{
+	padding: 3%;/* espacio entre lineas*/
 }
