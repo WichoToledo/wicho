@@ -15,3 +15,8 @@
 .OPCIONES{
 	padding: 3%;/* espacio entre lineas*/
 }
+.imagen{
+	width: 300px;
+	height: 200px; 
+
+}
