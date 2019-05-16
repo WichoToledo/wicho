@@ -53,7 +53,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
         templateUrl:'templates/portada.html'
     })
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/agua');
+  $urlRouterProvider.otherwise('/portada');
 
 });
  
